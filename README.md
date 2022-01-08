@@ -10,6 +10,8 @@ Arch Linux
 ![Arch Linux](https://github.com/tomatenstrauch/distrowallpapers/blob/6459014f76f6daf4e006947d38be39a595c5dbc3/arch/1920x1080_arch.png)
 Debian
 ![Debian](https://github.com/tomatenstrauch/distrowallpapers/blob/6459014f76f6daf4e006947d38be39a595c5dbc3/debian/1920x1080_deb.png)
+gentoo
+![gentoo](https://github.com/tomatenstrauch/distrowallpapers/blob/4889e4f003f767b160cd97ce9a77dddee89cc77f/gentoo/1920x1080_gentoo.png)
 Manjaro
 ![Manjaro](https://github.com/tomatenstrauch/distrowallpapers/blob/6459014f76f6daf4e006947d38be39a595c5dbc3/manjaro/1920x1080_manjaro.png)
 Linux Mint

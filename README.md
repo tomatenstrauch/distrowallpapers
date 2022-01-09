@@ -6,6 +6,8 @@ This collection is at this moment still a work-in-progress.
 In this github repo I upload some Blender renders of my own interpretations of logos and themes of popular operating systems, intended for use as a wallpaper. This project is not officially endorsed by any of the operating systems featured or the companies/associations behind them.
 
 
+Alpine Linux
+![Alpine Linux](https://github.com/tomatenstrauch/distrowallpapers/blob/da749f8298571c6076b2f446a581dbe12afdf19c/alpine/1920x1080_alpine.png)
 Arch Linux
 ![Arch Linux](https://github.com/tomatenstrauch/distrowallpapers/blob/6459014f76f6daf4e006947d38be39a595c5dbc3/arch/1920x1080_arch.png)
 Debian

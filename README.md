@@ -24,6 +24,8 @@ openSUSE
 ![openSUSE](https://github.com/tomatenstrauch/distrowallpapers/blob/6459014f76f6daf4e006947d38be39a595c5dbc3/opensuse/1920x1080_suse_2.png)
 Pop!\_OS
 ![Pop!\_OS](https://github.com/tomatenstrauch/distrowallpapers/blob/5c0f09c1e94da64013fb049e629d7881c3f7606b/pop!_os/1920x1080_pop.png)
+RedHat
+![RedHat](https://github.com/tomatenstrauch/distrowallpapers/blob/aeb3a0f0922bf7c18e669d2de76b3d1d5c616910/redhat/1920x1080_redhat.png)
 Slackware
 ![Slackware](https://github.com/tomatenstrauch/distrowallpapers/blob/f921e7471a7a7011546a44ba246bb06c04f30300/slackware/1920x1080_slack_2.png)
 Ubuntu

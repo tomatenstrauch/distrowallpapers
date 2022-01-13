@@ -8,6 +8,8 @@ In this github repo I upload some Blender renders of my own interpretations of l
 
 Alpine Linux
 ![Alpine Linux](https://github.com/tomatenstrauch/distrowallpapers/blob/da749f8298571c6076b2f446a581dbe12afdf19c/alpine/1920x1080_alpine.png)
+Apple (MacOS)
+![Apple](https://github.com/tomatenstrauch/distrowallpapers/blob/159b953430eb4b66bc414cbb840659e7130f29e4/apple/1920x1080_apple_1.1.png)
 Arch Linux
 ![Arch Linux](https://github.com/tomatenstrauch/distrowallpapers/blob/6459014f76f6daf4e006947d38be39a595c5dbc3/arch/1920x1080_arch.png)
 Debian

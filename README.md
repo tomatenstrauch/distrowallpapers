@@ -32,6 +32,8 @@ Slackware
 ![Slackware](https://github.com/tomatenstrauch/distrowallpapers/blob/f921e7471a7a7011546a44ba246bb06c04f30300/slackware/1920x1080_slack_2.png)
 Ubuntu
 ![Ubuntu](https://github.com/tomatenstrauch/distrowallpapers/blob/20976337a7098bb0f76cb88a00afb993f8020d01/ubuntu/1920x1080_ubuntu.png)
+Windows
+![Windows](https://github.com/tomatenstrauch/distrowallpapers/blob/e68fe8341a932935707bc912a8e837f25fd1f9a7/windows/1920x1080_windows.png)
 
 
 

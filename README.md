@@ -18,6 +18,8 @@ Fedora
 ![Fedora](https://github.com/tomatenstrauch/distrowallpapers/blob/905d305af98b01c62449638acbc8cfe187daad78/fedora/1920x1080_fedora.png)
 gentoo
 ![gentoo](https://github.com/tomatenstrauch/distrowallpapers/blob/4889e4f003f767b160cd97ce9a77dddee89cc77f/gentoo/1920x1080_gentoo.png)
+KDE Neon
+![KDE Neon](https://github.com/tomatenstrauch/distrowallpapers/blob/b01f04dc96825a8086ccdaeacd4bfe5153a5b5a6/kde_neon/1920x1080_kde.png)
 Manjaro
 ![Manjaro](https://github.com/tomatenstrauch/distrowallpapers/blob/6459014f76f6daf4e006947d38be39a595c5dbc3/manjaro/1920x1080_manjaro.png)
 Linux Mint

@@ -5,7 +5,7 @@ This collection is at this moment still a work-in-progress.
 ------
 In this github repo I upload some Blender renders of my own interpretations of logos and themes of popular operating systems, intended for use as a wallpaper. 
 
-This project is not officially endorsed by any of the operating systems featured or the companies/associations behind them.
+This project is not officially endorsed by any of the operating systems featured or the companies/associations behind them. The trademarks of the brands' logos and logotypes are property of their respective owners.
 
 The following pictures are a quick overview, some distributions have multiple versions to them. The wallpapers are available in different resolutions and formats.
 

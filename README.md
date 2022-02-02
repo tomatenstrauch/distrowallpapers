@@ -24,6 +24,8 @@ Manjaro
 ![Manjaro](https://github.com/tomatenstrauch/distrowallpapers/blob/6459014f76f6daf4e006947d38be39a595c5dbc3/manjaro/1920x1080_manjaro.png)
 Linux Mint
 ![Linux Mint](https://github.com/tomatenstrauch/distrowallpapers/blob/6459014f76f6daf4e006947d38be39a595c5dbc3/mint/1920x1080_mint.png)
+Nix OS
+![Nix_OS](https://github.com/tomatenstrauch/distrowallpapers/blob/c6c027bba1ecf1282ad0af8618bca34237b18874/nix_os/1920x1080_nix.png)
 openSUSE
 ![openSUSE](https://github.com/tomatenstrauch/distrowallpapers/blob/6459014f76f6daf4e006947d38be39a595c5dbc3/opensuse/1920x1080_suse_2.png)
 Pop!\_OS

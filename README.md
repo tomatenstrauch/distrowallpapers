@@ -48,4 +48,4 @@ Windows
 Featured Formats: `3840x2400`, `3840x2160`,`2400x3840`,`2160x3840`,`1920x1200`,`1920x1080`,`1200x1920`,`1080x1920`
 
 
-For further questions: Contact `𝕋𝕠𝕞𝕒𝕥𝕠#4120(572715030135439360)` on Discord or send an email to tomatenstrauch1234567890@gmail.com.
+For further questions: Contact `tomatenstrauch(572715030135439360)` on Discord or send an email to tomatenstrauch1234567890@gmail.com.

@@ -17,7 +17,7 @@ Apple (MacOS)
 Arch Linux
 ![Arch Linux](https://github.com/tomatenstrauch/distrowallpapers/blob/6459014f76f6daf4e006947d38be39a595c5dbc3/arch/1920x1080_arch.png)
 Debian
-![Debian](https://github.com/tomatenstrauch/distrowallpapers/blob/6459014f76f6daf4e006947d38be39a595c5dbc3/debian/1920x1080_deb.png)
+![Debian](https://github.com/tomatenstrauch/distrowallpapers/blob/main/debian/1920x1080_deb_2.png)
 elementaryOS
 ![elementaryOS](https://github.com/tomatenstrauch/distrowallpapers/blob/81f85d1fcc1b66da0c8d10598ca3107d9b556a80/elementary/1920x1200_elementary.png)
 Fedora
